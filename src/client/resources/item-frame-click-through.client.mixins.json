@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.zerotask.minecraft.clickthrough.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ItemUseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
